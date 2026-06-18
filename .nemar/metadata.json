@@ -1,0 +1,69 @@
+{
+  "version": "2.0",
+  "dataset_id": "on006377",
+  "source": "openneuro",
+  "source_id": "ds006377",
+  "title": "InclusionStudy",
+  "authors": {
+    "Meryem A. Yücel": {},
+    "Jessica E. Anderson": {},
+    "De'Ja Rogers": {},
+    "Parisa Hajirahimi": {},
+    "Parya Farzam": {},
+    "Yuanyuan Gao": {},
+    "Rini I. Kaplan": {},
+    "Emily J. Braun": {},
+    "Nishaat Mukadam": {},
+    "Sudan Duwadi": {},
+    "Laura Carlton": {},
+    "David Beeler": {},
+    "Lindsay K. Butler": {},
+    "Erin Carpenter": {},
+    "Jaimie Girnis": {},
+    "John Wilson": {},
+    "Vaibhav Tripathi": {},
+    "Yiwen Zhang": {},
+    "Bettina Sorger": {},
+    "Alexander von Lühmann": {},
+    "David C. Somers": {},
+    "Alice Cronin-Golomb": {},
+    "Swathi Kiran": {},
+    "Terry D. Ellis": {},
+    "David A. Boas": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds006377.v1.0.2",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.8.0",
+  "recording_modality": [
+    "nirs"
+  ],
+  "datatypes": [
+    "nirs"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Meta Reality Labs (formerly Facebook Technologies, LLC)"
+    },
+    {
+      "funder_name": "NIH U01EB0239856"
+    },
+    {
+      "funder_name": "NSF Research Traineeship Program (DGE-1633516)"
+    },
+    {
+      "funder_name": "NWiOd i-VGrant VI.Vidi.191.210"
+    },
+    {
+      "funder_name": "German Federal Ministry of Education and Research (BIFOLD24B)"
+    }
+  ],
+  "acknowledgements": "This research was supported by Meta Reality Labs (formerly Facebook Technologies, LLC) as part of the Engineering Approaches to Responsible Neural Interface Design Initiative (MAY). We would also like to acknowledge NIH U01EB0239856 (MAY, DB, SK, DS, ACG, TDE), NSF Research Traineeship Program (DGE-1633516) (EC), the Netherlands Organization for Scientific Research (NWiOd i-VGrant VI.Vidi.191.210) (BS), and the German Federal Ministry of Education and Research (BIFOLD24B) (AvL). We thank the NIRx team for their valuable support in guiding us on source power correction and helping us locate the relevant information in the acquired data."
+}

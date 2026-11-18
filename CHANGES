@@ -1,3 +1,11 @@
+1.0.3 2026-11-18
+  - 690 sub-*/nirs/*_channels.tsv: channel names written as MNE-Python derives them from the SNIRF measurement list ("S1-D1-760.0" -> "S1_D1 760"); row order and the other columns unchanged; in 688 of them type MISC -> NIRSCWAMPLITUDE (SNIRF dataType 1; the 2 sub-400 tables already had it); column status added with n/a (no channel quality assessment was made); Windows line endings removed
+  - 688 *_nirs.json: Manufacturer from the SNIRF tag ManufacturerName of each recording (NIRx Medizintechnik GmbH; not added where the tag is absent)
+  - 690 *_nirs.json: ManufacturersModelName NIRSport2 (doi:10.1038/s41562-025-02274-7, section 2.2 fNIRS Measurements, checked in its CC-BY preprint doi:10.1101/2024.10.28.620644); RecordingDuration and RecordingType computed from the SNIRF time vector of each recording
+  - participants.json: descriptions for brainROIorder1-3, reusing the published brainROIorder description
+  - sourcedata/: the published versions of the files whose values change in this version (690 channels.tsv), byte-identical at the same relative path (plain git files)
+  - README.md: new section "Contributed notes (version 1.0.3)"
+  - dataset_description.json: Version 1.0.0 -> 1.0.3
 1.0.2 2025-09-19
   - Added sharedit link.
 1.0.1 2025-09-11

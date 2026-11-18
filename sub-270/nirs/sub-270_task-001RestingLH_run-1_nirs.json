@@ -1,1 +1,1 @@
-{"TaskName": "001RestingLH", "SamplingFrequency": 10.172526041666668, "NIRSChannelCount": 52, "NIRSSourceOptodeCount": 8, "NIRSDetectorOptodeCount": 16}
+{"TaskName": "001RestingLH", "SamplingFrequency": 10.172526041666668, "NIRSChannelCount": 52, "NIRSSourceOptodeCount": 8, "NIRSDetectorOptodeCount": 16, "RecordingDuration": 190.12, "RecordingType": "continuous", "Manufacturer": "NIRx Medizintechnik GmbH", "ManufacturersModelName": "NIRSport2"}

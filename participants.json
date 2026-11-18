@@ -556,5 +556,14 @@
     "Detector": "Detector16",
     "Wavelength": 2,
     "Run": 1
-  }
+  },
+    "brainROIorder1": {
+        "Description": "Order of brainROIs of interest in the brain for data collection for the hair characteristics indexed as 1,2 and 3 in the following columns This column is position 1 in that order."
+    },
+    "brainROIorder2": {
+        "Description": "Order of brainROIs of interest in the brain for data collection for the hair characteristics indexed as 1,2 and 3 in the following columns This column is position 2 in that order."
+    },
+    "brainROIorder3": {
+        "Description": "Order of brainROIs of interest in the brain for data collection for the hair characteristics indexed as 1,2 and 3 in the following columns This column is position 3 in that order."
+    }
 }

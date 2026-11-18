@@ -1,1 +1,1 @@
-{"TaskName": "009BallLH", "SamplingFrequency": 10.172526041666666, "NIRSChannelCount": 52, "NIRSSourceOptodeCount": 8, "NIRSDetectorOptodeCount": 16}
+{"TaskName": "009BallLH", "SamplingFrequency": 10.172526041666666, "NIRSChannelCount": 52, "NIRSSourceOptodeCount": 8, "NIRSDetectorOptodeCount": 16, "RecordingDuration": 506.855, "RecordingType": "continuous", "Manufacturer": "NIRx Medizintechnik GmbH", "ManufacturersModelName": "NIRSport2"}
